@@ -15,7 +15,8 @@ We can create a virtual environment in Anaconda(refer to online tutorials) and i
   You should get a proper version number like 1.3.1
   Before trying the Notebooks, we need to verify the following things:
   
-  1.Open a jupyter Notebook and see if you can import torch, if you get any import errors, you need to    debug this first.
+  1.Open a jupyter Notebook and see if you can import torch, if you get any import errors, you need to    debug this first.If you dont get an error, you may continue.
+  If you get an error, try installig jupyter notebook in the same environment, 
   
   
 _________________________________________________________________________________________________________________________________________
