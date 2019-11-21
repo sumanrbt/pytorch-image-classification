@@ -1,7 +1,7 @@
 # pytorch-image-classification
 An image classifier using pytorch
 
-#### This is based on the lectures by *Sung Kim's* youtube channel
+#### This is based on the lectures by *Sung Kim's* youtube channel and Carlos Lara LeanManage github Repo
 
 People prefer to work in pytorch because it is more pythonic( easy to debug, simple and flexible code) and neural networkic(it is coded as to how the neural network works) and also easy to work with GPUs.
 
@@ -24,5 +24,8 @@ ________________________________________________________________________________
 We will start by creating simple projects in pytorch.Check the jupyter notebooks given.
 
 1.Linear Regression
+2. Character-level-LSTM with pytorch
+    My suggestion is to run this code in google colabs as it would be easier, I have added some code to take the input from the drive, so upload the anna.txt file in your drive and run the training.
+    
   
 
